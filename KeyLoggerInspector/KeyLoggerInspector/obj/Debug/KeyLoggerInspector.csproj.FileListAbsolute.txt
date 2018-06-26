@@ -1,0 +1,7 @@
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\bin\Debug\KeyLoggerInspector.exe.config
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\bin\Debug\KeyLoggerInspector.exe
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\bin\Debug\KeyLoggerInspector.pdb
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\obj\Debug\KeyLoggerInspector.csprojAssemblyReference.cache
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\obj\Debug\KeyLoggerInspector.csproj.CoreCompileInputs.cache
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\obj\Debug\KeyLoggerInspector.exe
+C:\Users\rave\source\repos\KeyLoggerInspector\KeyLoggerInspector\obj\Debug\KeyLoggerInspector.pdb
