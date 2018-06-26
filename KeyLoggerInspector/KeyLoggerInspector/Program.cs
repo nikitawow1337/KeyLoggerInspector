@@ -49,10 +49,12 @@ namespace KeyLoggerInspector
         static void OnProcessExit(object sender, EventArgs e)
         {
             DateTime localDate = DateTime.Now;
+            string syspath = Directory.GetCurrentDirectory();
             string path = localDate.ToString();
             path = path.Replace("/", ".").Replace(":", ".") + ".txt";
             //path += ".txt";
-            MessageBox.Show(path);
+            path = syspath + "\\" + path;
+            //Console.Write(path);
 
             //if (!File.Exists(path)) File.Create(path);
 
